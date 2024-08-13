@@ -58,14 +58,22 @@ Encadré et formé le personnel, en fournissant un soutien technique aux program
 
 
  Compétences Techniques
-
-- Langages de Programmation : Python, VBA, SQL
-- Data Analysis : Pandas, Matplotlib, Plotly
-- Reporting : Excel, Tableau, Power BI, Google Sheets API
-- Automation : Excel VBA, Python scripting
-- Gestion des Projets : JIRA, Trello, Asana
-- Gestion des Risques : Conformité financière, audits internes ou Externes
-- Logiciels de Gestion : AGRESSO, PeopleSoft, QuickBooks, Manager, Scala
+ 
+■ Langage de Programmation 
+Python, SQL, VBA
+Système de Comptabilités 
+Peoplesolt PAMODZI, SAP, QuickBooks, Agresso, Manager, Scala, Ciel COMPTA, Sage SARRI, etc.
+■ Visualisations des Données
+Tableau Desktop/Public, Microsoft Power BI, Microsoft EXCEL, Google Data Studio, SPSS
+■ Base de données relationnelles 
+MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database, MongoDB, MariaDB, Microsoft ACCESS
+■ Suites Bureautiques 
+Microsoft Office, Zoho Office Suite, Microsoft 365, OpenOffice, et LibreOffice
+■ Modélisation des données 
+Power Pivot et DAX Studio de Microsoft EXCEL ainsi que son Gestionnaire de scénarios et Solveur
+■ Data Analysis : Pandas, Matplotlib, Plotly
+■ Gestion des Projets : JIRA, Trello, Asana
+■ Gestion des Risques : Conformité financière, audits internes ou Externes
 
 
 
